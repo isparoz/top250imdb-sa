@@ -7,6 +7,7 @@ const manifest = {
 
     "name": "TOP 250 IMDB",
     "description": "Collection of movies from IMDB TOP 250",
+    "icon": "https://github.com/isparoz/top250imdb-sa/blob/master/bitmap3.png?raw=true",
  
 
 
